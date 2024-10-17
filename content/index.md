@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+These are my notes written in Markdown using Obsidian, published using Quartz, and hosted on Netlify.
